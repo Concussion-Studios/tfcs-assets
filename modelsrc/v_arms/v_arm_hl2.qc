@@ -17,6 +17,14 @@ $illumposition -1.154 -17.271 -16.696
 $cdmaterials "models\Weapons\V_hand\"
 $cdmaterials "models\Weapons\V_smg1\"
 
+$texturegroup "skinfamilies"
+{
+	{ "v_hand_sheet"        }
+	{ "v_hand_sheet_blue"   }
+	{ "v_hand_sheet_green"  }
+	{ "v_hand_sheet_yellow" }
+}
+
 $attachment "muzzle" "ValveBiped.muzzle" 0 0 0 rotate 0 0 0
 $attachment "1" "ValveBiped.eject" 0 0 0 rotate 0 0 0
 $attachment "muzzle2" "ValveBiped.muzzle2" 0 0 0 rotate 0 0 0
