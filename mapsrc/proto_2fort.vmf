@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8357"
-	"mapversion" "29"
+	"editorbuild" "8163"
+	"mapversion" "30"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "0"
-	"mapversion" "29"
+	"mapversion" "30"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.3.24 from proto_2fort_tf2"
 	"detailmaterial" "detail/detailsprites"
@@ -10704,6 +10704,66 @@ world
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
+	}
+}
+entity
+{
+	"id" "7991"
+	"classname" "info_player_red"
+	"angles" "0 270 0"
+	"origin" "-160 1413 200"
+	editor
+	{
+		"color" "220 220 220"
+		"groupid" "7990"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 14500]"
+	}
+}
+entity
+{
+	"id" "7993"
+	"classname" "info_player_red"
+	"angles" "0 270 0"
+	"origin" "-159 1518 200"
+	editor
+	{
+		"color" "220 220 220"
+		"groupid" "7990"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 14500]"
+	}
+}
+entity
+{
+	"id" "8246"
+	"classname" "info_player_red"
+	"angles" "0 270 0"
+	"origin" "192 1417 200"
+	editor
+	{
+		"color" "220 220 220"
+		"groupid" "8245"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 14500]"
+	}
+}
+entity
+{
+	"id" "8248"
+	"classname" "info_player_red"
+	"angles" "0 270 0"
+	"origin" "193 1522 200"
+	editor
+	{
+		"color" "220 220 220"
+		"groupid" "8245"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 14500]"
 	}
 }
 entity
@@ -49210,19 +49270,19 @@ entity
 	"id" "4358"
 	"classname" "info_overlay"
 	"angles" "0 0 0"
-	"BasisNormal" "-99999.9 -99999.9 -99999.9"
+	"BasisNormal" "0 -1 0"
 	"BasisOrigin" "-441.719 1016 289.082"
-	"BasisU" "-99999.9 -99999.9 -99999.9"
-	"BasisV" "-99999.9 -99999.9 -99999.9"
-	"EndU" "1.0"
-	"EndV" "1.0"
+	"BasisU" "1 0 0"
+	"BasisV" "-0 0 1"
+	"EndU" "1"
+	"EndV" "0"
 	"fademaxdist" "0"
 	"fademindist" "-1"
 	"material" "decals/ship_snow1b"
 	"RenderOrder" "0"
 	"sides" "508"
-	"StartU" "0.0"
-	"StartV" "0.0"
+	"StartU" "0"
+	"StartV" "1"
 	"uv0" "-25 -25 0"
 	"uv1" "-25 25 0"
 	"uv2" "25 25 0"
@@ -49295,7 +49355,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_c17/lamppost03a_off.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "112 -272 -8"
 	editor
 	{
@@ -49318,7 +49378,7 @@ entity
 	"lightmapresolutiony" "32"
 	"model" "models/props_c17/lamppost03a_off.mdl"
 	"skin" "0"
-	"solid" "0"
+	"solid" "6"
 	"origin" "112 272 -8"
 	editor
 	{
@@ -49700,7 +49760,7 @@ entity
 {
 	"id" "4385"
 	"classname" "env_cubemap"
-	"cubemapsize" "8"
+	"cubemapsize" "7"
 	"origin" "0 0 50"
 	editor
 	{
@@ -49714,7 +49774,7 @@ entity
 {
 	"id" "4386"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "0 0 -54"
 	editor
 	{
@@ -49728,7 +49788,7 @@ entity
 {
 	"id" "4387"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "0 -572 50"
 	editor
 	{
@@ -49742,7 +49802,7 @@ entity
 {
 	"id" "4388"
 	"classname" "env_cubemap"
-	"cubemapsize" "0"
+	"cubemapsize" "7"
 	"origin" "0 572 50"
 	editor
 	{
@@ -49777,7 +49837,7 @@ entity
 		"OnMapSpawn" "tonemap_global,SetAutoExposureMax,1.2,0,-1"
 		"OnMapSpawn" "tonemap_global,SetBloomScale,.3,0,-1"
 	}
-	"origin" "-26.0604 -25.9557 32"
+	"origin" "-26.0604 -32 32"
 	editor
 	{
 		"color" "220 30 220"
@@ -50148,20 +50208,6 @@ entity
 }
 entity
 {
-	"id" "7746"
-	"classname" "info_player_start"
-	"angles" "2 36 0"
-	"origin" "-416 -288 384"
-	editor
-	{
-		"color" "0 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 6000]"
-	}
-}
-entity
-{
 	"id" "7848"
 	"classname" "info_player_red"
 	"angles" "0 270 0"
@@ -50197,66 +50243,6 @@ entity
 	editor
 	{
 		"color" "0 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 14500]"
-	}
-}
-entity
-{
-	"id" "7991"
-	"classname" "info_player_red"
-	"angles" "0 270 0"
-	"origin" "-160 1413 200"
-	editor
-	{
-		"color" "220 220 220"
-		"groupid" "7990"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 14500]"
-	}
-}
-entity
-{
-	"id" "7993"
-	"classname" "info_player_red"
-	"angles" "0 270 0"
-	"origin" "-159 1518 200"
-	editor
-	{
-		"color" "220 220 220"
-		"groupid" "7990"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 14500]"
-	}
-}
-entity
-{
-	"id" "8246"
-	"classname" "info_player_red"
-	"angles" "0 270 0"
-	"origin" "192 1417 200"
-	editor
-	{
-		"color" "220 220 220"
-		"groupid" "8245"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 14500]"
-	}
-}
-entity
-{
-	"id" "8248"
-	"classname" "info_player_red"
-	"angles" "0 270 0"
-	"origin" "193 1522 200"
-	editor
-	{
-		"color" "220 220 220"
-		"groupid" "8245"
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 14500]"
@@ -50360,13 +50346,57 @@ entity
 		"logicalpos" "[0 15000]"
 	}
 }
+entity
+{
+	"id" "8771"
+	"classname" "env_soundscape"
+	"radius" "-1"
+	"soundscape" "coast.bridge_ambient"
+	"origin" "-0.453077 -24 0"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "7746"
+	"classname" "info_player_start"
+	"angles" "2 36 0"
+	"origin" "-416 -288 384"
+	editor
+	{
+		"color" "0 255 0"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 6000]"
+	}
+}
+entity
+{
+	"id" "8830"
+	"classname" "water_lod_control"
+	"cheapwaterenddistance" "2000"
+	"cheapwaterstartdistance" "1000"
+	"origin" "9.58412 33.9522 -35"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[88.9524 -676.265 303.499]"
-		"look" "[-158.489 -601.563 239.056]"
+		"position" "[-87.3633 -589.237 99.9423]"
+		"look" "[-6.97021 -341.799 42.7401]"
 	}
 	camera
 	{
