@@ -1,0 +1,11 @@
+// Created by Crowbar 0.65
+
+$DeclareSequence "idle01"
+$DeclareSequence "draw"
+$DeclareSequence "misscenter1"
+$DeclareSequence "misscenter2"
+$DeclareSequence "hitcenter1"
+$DeclareSequence "hitcenter2"
+$DeclareSequence "hitcenter3"
+$DeclareSequence "hitkill1"
+$DeclareSequence "holster"

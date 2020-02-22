@@ -1,0 +1,76 @@
+
+$SectionFrames 30 121
+
+$Animation "a_fists_idle_01" "c_arms_animations_anims\a_fists_idle_01.smd" {
+	fps 30
+	loop
+}
+
+$Animation "a_fists_idle_02" "c_arms_animations_anims\a_fists_idle_02.smd" {
+	fps 30
+	loop
+}
+
+$Sequence "reference" {
+	"c_arms_animations_anims\reference.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 1
+	loop
+}
+
+$Sequence "seq_admire" {
+	"c_arms_animations_anims\seq_admire.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
+
+$Sequence "fists_draw" {
+	"c_arms_animations_anims\fists_draw.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 30
+}
+
+$Sequence "fists_right" {
+	"c_arms_animations_anims\fists_right.smd"
+	fadein 0.1
+	fadeout 0.3
+	fps 33
+}
+
+$Sequence "fists_left" {
+	"c_arms_animations_anims\fists_left.smd"
+	fadein 0.1
+	fadeout 0.3
+	fps 33
+}
+
+$Sequence "fists_uppercut" {
+	"c_arms_animations_anims\fists_uppercut.smd"
+	fadein 0.1
+	fadeout 0.3
+	fps 33
+}
+
+$Sequence "fists_holster" {
+	"c_arms_animations_anims\fists_holster.smd"
+	fadein 0.2
+	fadeout 0.2
+	fps 26
+}
+
+$Sequence "fists_idle_01" {
+	"a_fists_idle_01"
+	activity "ACT_VM_FISTS_IDLE" 1
+	fadein 0.2
+	fadeout 0.2
+}
+
+$Sequence "fists_idle_02" {
+	"a_fists_idle_02"
+	activity "ACT_VM_FISTS_IDLE" 1
+	fadein 0.2
+	fadeout 0.2
+}
