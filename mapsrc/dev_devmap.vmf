@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8163"
-	"mapversion" "11"
+	"mapversion" "12"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "11"
+	"mapversion" "12"
 	"classname" "worldspawn"
 	"comment" "Decompiled by BSPSource v1.3.24 from dev_devmap"
 	"detailmaterial" "detail/detailsprites"
@@ -5540,6 +5540,8 @@ hidden
 		"Explosives" "20"
 		"model" "models/items/backpack.mdl"
 		"Nails" "50"
+		"RespawnTime" "10"
+		"Rockets" "20"
 		"Shells" "50"
 		"Shouldwespawn" "3"
 		"origin" "-960 -129 124"
@@ -6077,13 +6079,193 @@ entity
 		"logicalpos" "[0 11000]"
 	}
 }
+entity
+{
+	"id" "1818"
+	"classname" "entity_backpack"
+	"angles" "0 0 0"
+	"Cells" "50"
+	"model" "models/items/backpack.mdl"
+	"Nails" "50"
+	"RespawnTime" "10"
+	"Rockets" "20"
+	"Shells" "50"
+	"origin" "-960.732 832.01 91"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
+	"id" "1823"
+	"classname" "entity_backpack"
+	"angles" "0 0 0"
+	"Cells" "50"
+	"model" "models/items/backpack.mdl"
+	"Nails" "50"
+	"RespawnTime" "10"
+	"Rockets" "20"
+	"Shells" "50"
+	"origin" "-960.519 636.975 91"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
+	}
+}
+entity
+{
+	"id" "1826"
+	"classname" "entity_backpack"
+	"angles" "0 0 0"
+	"Cells" "50"
+	"model" "models/items/backpack.mdl"
+	"Nails" "50"
+	"RespawnTime" "10"
+	"Rockets" "20"
+	"Shells" "50"
+	"origin" "-958.343 445.609 91"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1000]"
+	}
+}
+entity
+{
+	"id" "1829"
+	"classname" "entity_backpack"
+	"angles" "0 0 0"
+	"Cells" "50"
+	"model" "models/items/backpack.mdl"
+	"Nails" "50"
+	"RespawnTime" "10"
+	"Rockets" "20"
+	"Shells" "50"
+	"origin" "-957.686 254.303 91"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 1500]"
+	}
+}
+entity
+{
+	"id" "1832"
+	"classname" "entity_backpack"
+	"angles" "0 0 0"
+	"Cells" "50"
+	"model" "models/items/backpack.mdl"
+	"Nails" "50"
+	"RespawnTime" "10"
+	"Rockets" "20"
+	"Shells" "50"
+	"origin" "-951.214 60.4485 91"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2000]"
+	}
+}
+entity
+{
+	"id" "1835"
+	"classname" "entity_armor"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-959.906 -128.632 81.2765"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 2500]"
+	}
+}
+entity
+{
+	"id" "1837"
+	"classname" "entity_armor"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-954.737 -321.018 81.2765"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3000]"
+	}
+}
+entity
+{
+	"id" "1839"
+	"classname" "entity_armor"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-958.368 -514.028 81.2765"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 3500]"
+	}
+}
+entity
+{
+	"id" "1841"
+	"classname" "entity_armor"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-957.452 -704.52 77.2765"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4000]"
+	}
+}
+entity
+{
+	"id" "1843"
+	"classname" "entity_armor"
+	"angles" "0 0 0"
+	"fademindist" "-1"
+	"fadescale" "1"
+	"origin" "-957.751 -897.165 77.2765"
+	editor
+	{
+		"color" "0 0 200"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 4500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-107.03 -572.175 384.132]"
-		"look" "[13.5336 -341.344 328.065]"
+		"position" "[-645.802 -364.368 379.078]"
+		"look" "[-382.812 -323.117 369.27]"
 	}
 	camera
 	{
