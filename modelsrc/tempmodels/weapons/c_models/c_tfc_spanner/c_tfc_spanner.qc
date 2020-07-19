@@ -24,17 +24,17 @@ $Sequence "idle" {
 }
 $Sequence "attack1" {
 	"c_tfc_spanner_anims\attack1"
-	ACT_VM_PRIMARYATTACK 1
+	ACT_VM_HITCENTER 1
 	fps 40
 }
 $Sequence "attack2" {
 	"c_tfc_spanner_anims\attack2"
-	ACT_VM_PRIMARYATTACK 2
+	ACT_VM_HITCENTER2 1
 	fps 40
 }
 $Sequence "use" {
 	"c_tfc_spanner_anims\use"
-	ACT_VM_SECONDARYATTACK 1
+	ACT_VM_RELOAD 1
 	fps 30
 }
 $Sequence "draw" {

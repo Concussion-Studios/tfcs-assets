@@ -35,12 +35,12 @@ $Sequence "longidle" {
 }
 $Sequence "longuse" {
 	"c_tfc_medkit_anims\longuse"
-	ACT_VM_SECONDARYATTACK 1
+	ACT_VM_HITCENTER2 1
 	fps 30
 }
 $Sequence "shortuse" {
 	"c_tfc_medkit_anims\shortuse"
-	ACT_VM_PRIMARYATTACK 1
+	ACT_VM_HITCENTER2 1
 	fps 30
 }
 $Sequence "holster" {

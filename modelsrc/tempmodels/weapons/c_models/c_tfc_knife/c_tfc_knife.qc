@@ -29,7 +29,7 @@ $Sequence "idle2" {
 }
 $Sequence "slash" {
 	"c_tfc_knife_anims\slash"
-	ACT_VM_PRIMARYATTACK 1
+	ACT_VM_HITCENTER 1
 	fps 30
 }
 $Sequence "stab" {
