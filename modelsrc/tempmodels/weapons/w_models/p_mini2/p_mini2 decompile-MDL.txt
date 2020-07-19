@@ -1,0 +1,89 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	39,676
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 1,699 theMdlFileData.theBones 13
+	1,700 - 1,923 aHitboxSet.theHitboxes 7
+	1,924 - 1,935 anAnimation
+	1,936 - 1,947 anAnimation
+	1,948 - 1,959 anAnimation
+	1,960 - 1,971 anAnimation
+	1,972 - 1,983 anAnimation
+	1,984 - 1,995 anAnimation
+	1,996 - 2,007 anAnimation
+	2,008 - 2,019 anAnimation
+	2,020 - 2,031 anAnimation
+	2,032 - 2,043 anAnimation
+	2,044 - 2,055 anAnimation
+	2,056 - 2,067 anAnimation
+	2,068 - 2,079 anAnimation
+	2,080 - 2,083 anAnimation.theAnimationValues
+	2,084 - 2,087 anAnimation.theAnimationValues
+	2,088 - 2,091 anAnimation.theAnimationValues
+	2,092 - 2,095 anAnimation.theAnimationValues
+	2,096 - 2,099 anAnimation.theAnimationValues
+	2,100 - 2,103 anAnimation.theAnimationValues
+	2,104 - 2,107 anAnimation.theAnimationValues
+	2,108 - 2,111 anAnimation.theAnimationValues
+	2,112 - 2,115 anAnimation.theAnimationValues
+	2,116 - 2,119 anAnimation.theAnimationValues
+	2,120 - 2,123 anAnimation.theAnimationValues
+	2,124 - 2,127 anAnimation.theAnimationValues
+	2,128 - 2,131 anAnimation.theAnimationValues
+	2,132 - 2,135 anAnimation.theAnimationValues
+	2,136 - 2,139 anAnimation.theAnimationValues
+	2,140 - 2,143 anAnimation.theAnimationValues
+	2,144 - 2,147 anAnimation.theAnimationValues
+	2,148 - 2,151 anAnimation.theAnimationValues
+	2,152 - 2,155 anAnimation.theAnimationValues
+	2,156 - 2,159 anAnimation.theAnimationValues
+	2,160 - 2,163 anAnimation.theAnimationValues
+	2,164 - 2,167 anAnimation.theAnimationValues
+	2,168 - 2,171 anAnimation.theAnimationValues
+	2,172 - 2,175 anAnimation.theAnimationValues
+	2,176 - 2,179 anAnimation.theAnimationValues
+	2,180 - 2,183 anAnimation.theAnimationValues
+	2,184 - 2,187 anAnimation.theAnimationValues
+	2,188 - 2,191 anAnimation.theAnimationValues
+	2,192 - 2,195 anAnimation.theAnimationValues
+	2,196 - 2,199 anAnimation.theAnimationValues
+	2,200 - 2,203 anAnimation.theAnimationValues
+	2,204 - 2,207 anAnimation.theAnimationValues
+	2,208 - 2,211 anAnimation.theAnimationValues
+	2,212 - 2,387 aSequence [standthere]
+	2,388 - 2,491 theMdlFileData.theSequenceGroups 1
+	2,492 - 2,567 aBodyPart [studio]
+	2,568 - 2,679 aModel [minigun5]
+	2,680 - 2,822 aModel.theVertexBoneInfos 143
+	2,823 - 2,823 aModel.theVertexBoneInfos alignment [ 00 ]
+	2,824 - 2,967 aModel.theNormalBoneInfos 144
+	2,968 - 4,683 aModel.theVertexes 143
+	4,684 - 6,411 aModel.theNormals 144
+	6,412 - 6,431 aMesh
+	6,432 - 6,451 aMesh
+	6,452 - 6,471 aMesh
+	6,472 - 6,491 aMesh
+	6,492 - 6,511 aMesh
+	6,512 - 6,683 aMesh.theFaces 5
+	6,684 - 8,321 aMesh.theFaces 42
+	8,322 - 8,323 aMesh.theFaces alignment [ 00 00 ]
+	8,324 - 8,745 aMesh.theFaces 10
+	8,746 - 8,747 aMesh.theFaces alignment [ 00 00 ]
+	8,748 - 9,059 aMesh.theFaces 3
+	9,060 - 9,469 aMesh.theFaces 12
+	9,470 - 9,471 aMesh.theFaces alignment [ 00 00 ]
+	9,472 - 9,551 aTexture [backpack.bmp]
+	9,552 - 9,631 aTexture [body_side.bmp]
+	9,632 - 9,711 aTexture [barrel_chrome.bmp]
+	9,712 - 9,791 aTexture [barrelend.bmp]
+	9,792 - 9,871 aTexture [grip.bmp]
+	9,872 - 9,881 theMdlFileData.theSkinFamilies 1
+	9,882 - 9,883 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	9,884 - 18,715 aTexture.theData
+	18,716 - 28,315 aTexture.theData
+	28,316 - 33,179 aTexture.theData
+	33,180 - 34,939 aTexture.theData
+	34,940 - 39,675 aTexture.theData
+	39,676 - 39,676 END OF FILE + 1 (File size)
+========================

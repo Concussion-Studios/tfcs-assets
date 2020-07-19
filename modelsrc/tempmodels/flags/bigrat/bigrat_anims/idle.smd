@@ -1,0 +1,8 @@
+version 1
+nodes
+  0 "original01" -1
+end
+skeleton
+  time 0
+    0 -0.020196 1.913693 63.886608 0.000000 0.000000 0.000000
+end

@@ -1,0 +1,68 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	34,200
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 915 theMdlFileData.theBones 6
+	916 - 1,011 theMdlFileData.theBoneControllers 4
+	1,012 - 1,363 theMdlFileData.theAttachments 4
+	1,364 - 1,555 aHitboxSet.theHitboxes 6
+	1,556 - 1,567 anAnimation
+	1,568 - 1,579 anAnimation
+	1,580 - 1,591 anAnimation
+	1,592 - 1,603 anAnimation
+	1,604 - 1,615 anAnimation
+	1,616 - 1,627 anAnimation
+	1,628 - 1,631 anAnimation.theAnimationValues
+	1,632 - 1,635 anAnimation.theAnimationValues
+	1,636 - 1,639 anAnimation.theAnimationValues
+	1,640 - 1,651 anAnimation
+	1,652 - 1,663 anAnimation
+	1,664 - 1,675 anAnimation
+	1,676 - 1,687 anAnimation
+	1,688 - 1,699 anAnimation
+	1,700 - 1,711 anAnimation
+	1,712 - 1,715 anAnimation.theAnimationValues
+	1,716 - 1,719 anAnimation.theAnimationValues
+	1,720 - 1,723 anAnimation.theAnimationValues
+	1,724 - 1,747 anAnimation.theAnimationValues
+	1,748 - 1,757 anAnimation.theAnimationValues
+	1,758 - 1,781 anAnimation.theAnimationValues
+	1,782 - 1,791 anAnimation.theAnimationValues
+	1,792 - 1,803 anAnimation
+	1,804 - 1,815 anAnimation
+	1,816 - 1,827 anAnimation
+	1,828 - 1,839 anAnimation
+	1,840 - 1,851 anAnimation
+	1,852 - 1,863 anAnimation
+	1,864 - 1,867 anAnimation.theAnimationValues
+	1,868 - 1,871 anAnimation.theAnimationValues
+	1,872 - 1,875 anAnimation.theAnimationValues
+	1,876 - 1,899 anAnimation.theAnimationValues
+	1,900 - 2,075 aSequence [idle_off]
+	2,076 - 2,251 aSequence [fire]
+	2,252 - 2,427 aSequence [spin]
+	2,428 - 2,503 anEvent
+	2,504 - 2,579 anEvent
+	2,580 - 2,655 anEvent
+	2,656 - 2,731 anEvent
+	2,732 - 2,835 theMdlFileData.theSequenceGroups 1
+	2,836 - 2,911 aBodyPart [studio]
+	2,912 - 3,023 aModel [TFSentry-3_Template_Biped1]
+	3,024 - 3,206 aModel.theVertexBoneInfos 183
+	3,207 - 3,207 aModel.theVertexBoneInfos alignment [ 00 ]
+	3,208 - 3,395 aModel.theNormalBoneInfos 188
+	3,396 - 5,591 aModel.theVertexes 183
+	5,592 - 7,847 aModel.theNormals 188
+	7,848 - 7,867 aMesh
+	7,868 - 7,887 aMesh
+	7,888 - 11,701 aMesh.theFaces 94
+	11,702 - 11,703 aMesh.theFaces alignment [ 00 00 ]
+	11,704 - 12,019 aMesh.theFaces 5
+	12,020 - 12,099 aTexture [DM_Base.bmp]
+	12,100 - 12,179 aTexture [Chrome1.bmp]
+	12,180 - 12,183 theMdlFileData.theSkinFamilies 1
+	12,184 - 29,335 aTexture.theData
+	29,336 - 34,199 aTexture.theData
+	34,200 - 34,200 END OF FILE + 1 (File size)
+========================

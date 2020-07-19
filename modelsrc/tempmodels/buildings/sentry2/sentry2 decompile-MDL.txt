@@ -1,0 +1,62 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	33,956
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 691 theMdlFileData.theBones 4
+	692 - 787 theMdlFileData.theBoneControllers 4
+	788 - 875 theMdlFileData.theAttachments 1
+	876 - 1,003 aHitboxSet.theHitboxes 4
+	1,004 - 1,015 anAnimation
+	1,016 - 1,027 anAnimation
+	1,028 - 1,039 anAnimation
+	1,040 - 1,051 anAnimation
+	1,052 - 1,055 anAnimation.theAnimationValues
+	1,056 - 1,059 anAnimation.theAnimationValues
+	1,060 - 1,063 anAnimation.theAnimationValues
+	1,064 - 1,075 anAnimation
+	1,076 - 1,087 anAnimation
+	1,088 - 1,099 anAnimation
+	1,100 - 1,111 anAnimation
+	1,112 - 1,115 anAnimation.theAnimationValues
+	1,116 - 1,119 anAnimation.theAnimationValues
+	1,120 - 1,123 anAnimation.theAnimationValues
+	1,124 - 1,147 anAnimation.theAnimationValues
+	1,148 - 1,159 anAnimation
+	1,160 - 1,171 anAnimation
+	1,172 - 1,183 anAnimation
+	1,184 - 1,195 anAnimation
+	1,196 - 1,199 anAnimation.theAnimationValues
+	1,200 - 1,203 anAnimation.theAnimationValues
+	1,204 - 1,207 anAnimation.theAnimationValues
+	1,208 - 1,251 anAnimation.theAnimationValues
+	1,252 - 1,427 aSequence [idle_off]
+	1,428 - 1,603 aSequence [fire]
+	1,604 - 1,779 aSequence [spin]
+	1,780 - 1,855 anEvent
+	1,856 - 1,931 anEvent
+	1,932 - 2,007 anEvent
+	2,008 - 2,083 anEvent
+	2,084 - 2,159 anEvent
+	2,160 - 2,235 anEvent
+	2,236 - 2,311 anEvent
+	2,312 - 2,415 theMdlFileData.theSequenceGroups 1
+	2,416 - 2,491 aBodyPart [studio]
+	2,492 - 2,603 aModel [TFSentry-2_Template_Biped1]
+	2,604 - 2,787 aModel.theVertexBoneInfos 184
+	2,788 - 2,922 aModel.theNormalBoneInfos 135
+	2,923 - 2,923 aModel.theNormalBoneInfos alignment [ 00 ]
+	2,924 - 5,131 aModel.theVertexes 184
+	5,132 - 6,751 aModel.theNormals 135
+	6,752 - 6,771 aMesh
+	6,772 - 6,791 aMesh
+	6,792 - 11,185 aMesh.theFaces 132
+	11,186 - 11,187 aMesh.theFaces alignment [ 00 00 ]
+	11,188 - 11,775 aMesh.theFaces 13
+	11,776 - 11,855 aTexture [DM_base.bmp]
+	11,856 - 11,935 aTexture [Chrome1.bmp]
+	11,936 - 11,939 theMdlFileData.theSkinFamilies 1
+	11,940 - 29,091 aTexture.theData
+	29,092 - 33,955 aTexture.theData
+	33,956 - 33,956 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,44 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	28,312
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 1,699 theMdlFileData.theBones 13
+	1,700 - 1,787 theMdlFileData.theAttachments 1
+	1,788 - 1,819 aHitboxSet.theHitboxes 1
+	1,820 - 1,831 anAnimation
+	1,832 - 1,843 anAnimation
+	1,844 - 1,855 anAnimation
+	1,856 - 1,867 anAnimation
+	1,868 - 1,879 anAnimation
+	1,880 - 1,891 anAnimation
+	1,892 - 1,903 anAnimation
+	1,904 - 1,915 anAnimation
+	1,916 - 1,927 anAnimation
+	1,928 - 1,939 anAnimation
+	1,940 - 1,951 anAnimation
+	1,952 - 1,963 anAnimation
+	1,964 - 1,975 anAnimation
+	1,976 - 1,979 anAnimation.theAnimationValues
+	1,980 - 1,983 anAnimation.theAnimationValues
+	1,984 - 1,987 anAnimation.theAnimationValues
+	1,988 - 2,163 aSequence [dummyidle]
+	2,164 - 2,267 theMdlFileData.theSequenceGroups 1
+	2,268 - 2,343 aBodyPart [studio]
+	2,344 - 2,455 aModel [nailgun]
+	2,456 - 2,553 aModel.theVertexBoneInfos 98
+	2,554 - 2,555 aModel.theVertexBoneInfos alignment [ 00 00 ]
+	2,556 - 2,627 aModel.theNormalBoneInfos 72
+	2,628 - 3,803 aModel.theVertexes 98
+	3,804 - 4,667 aModel.theNormals 72
+	4,668 - 4,687 aMesh
+	4,688 - 4,707 aMesh
+	4,708 - 5,571 aMesh.theFaces 23
+	5,572 - 6,643 aMesh.theFaces 15
+	6,644 - 6,723 aTexture [NG.BMP]
+	6,724 - 6,803 aTexture [Chrome2.BMP]
+	6,804 - 6,807 theMdlFileData.theSkinFamilies 1
+	6,808 - 23,447 aTexture.theData
+	23,448 - 28,311 aTexture.theData
+	28,312 - 28,312 END OF FILE + 1 (File size)
+========================

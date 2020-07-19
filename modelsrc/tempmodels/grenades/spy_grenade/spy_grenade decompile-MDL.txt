@@ -1,0 +1,29 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	3,436
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 355 theMdlFileData.theBones 1
+	356 - 387 aHitboxSet.theHitboxes 1
+	388 - 399 anAnimation
+	400 - 403 anAnimation.theAnimationValues
+	404 - 407 anAnimation.theAnimationValues
+	408 - 411 anAnimation.theAnimationValues
+	412 - 587 aSequence [idle]
+	588 - 691 theMdlFileData.theSequenceGroups 1
+	692 - 767 aBodyPart [studio]
+	768 - 879 aModel [SpyGren_Template1]
+	880 - 897 aModel.theVertexBoneInfos 18
+	898 - 899 aModel.theVertexBoneInfos alignment [ 00 00 ]
+	900 - 917 aModel.theNormalBoneInfos 18
+	918 - 919 aModel.theNormalBoneInfos alignment [ 00 00 ]
+	920 - 1,135 aModel.theVertexes 18
+	1,136 - 1,351 aModel.theNormals 18
+	1,352 - 1,371 aMesh
+	1,372 - 1,719 aMesh.theFaces 5
+	1,720 - 1,799 aTexture [Spygren1.bmp]
+	1,800 - 1,801 theMdlFileData.theSkinFamilies 1
+	1,802 - 1,803 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	1,804 - 3,435 aTexture.theData
+	3,436 - 3,436 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,44 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	27,572
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 1,587 theMdlFileData.theBones 12
+	1,588 - 1,651 aHitboxSet.theHitboxes 2
+	1,652 - 1,663 anAnimation
+	1,664 - 1,675 anAnimation
+	1,676 - 1,687 anAnimation
+	1,688 - 1,699 anAnimation
+	1,700 - 1,711 anAnimation
+	1,712 - 1,723 anAnimation
+	1,724 - 1,735 anAnimation
+	1,736 - 1,747 anAnimation
+	1,748 - 1,759 anAnimation
+	1,760 - 1,771 anAnimation
+	1,772 - 1,783 anAnimation
+	1,784 - 1,795 anAnimation
+	1,796 - 1,799 anAnimation.theAnimationValues
+	1,800 - 1,803 anAnimation.theAnimationValues
+	1,804 - 1,807 anAnimation.theAnimationValues
+	1,808 - 1,983 aSequence [dummyidle]
+	1,984 - 2,087 theMdlFileData.theSequenceGroups 1
+	2,088 - 2,163 aBodyPart [studio]
+	2,164 - 2,275 aModel [s_rpg]
+	2,276 - 2,356 aModel.theVertexBoneInfos 81
+	2,357 - 2,359 aModel.theVertexBoneInfos alignment [ 00 00 00 ]
+	2,360 - 2,428 aModel.theNormalBoneInfos 69
+	2,429 - 2,431 aModel.theNormalBoneInfos alignment [ 00 00 00 ]
+	2,432 - 3,403 aModel.theVertexes 81
+	3,404 - 4,231 aModel.theNormals 69
+	4,232 - 4,251 aMesh
+	4,252 - 4,271 aMesh
+	4,272 - 4,355 aMesh.theFaces 1
+	4,356 - 6,025 aMesh.theFaces 34
+	6,026 - 6,027 aMesh.theFaces alignment [ 00 00 ]
+	6,028 - 6,107 aTexture [Chrome1.BMP]
+	6,108 - 6,187 aTexture [Rl1(Soldier 128).bmp]
+	6,188 - 6,191 theMdlFileData.theSkinFamilies 1
+	6,192 - 11,055 aTexture.theData
+	11,056 - 27,571 aTexture.theData
+	27,572 - 27,572 END OF FILE + 1 (File size)
+========================

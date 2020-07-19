@@ -1,0 +1,40 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	9,908
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 1,587 theMdlFileData.theBones 12
+	1,588 - 1,651 aHitboxSet.theHitboxes 2
+	1,652 - 1,663 anAnimation
+	1,664 - 1,675 anAnimation
+	1,676 - 1,687 anAnimation
+	1,688 - 1,699 anAnimation
+	1,700 - 1,711 anAnimation
+	1,712 - 1,723 anAnimation
+	1,724 - 1,735 anAnimation
+	1,736 - 1,747 anAnimation
+	1,748 - 1,759 anAnimation
+	1,760 - 1,771 anAnimation
+	1,772 - 1,783 anAnimation
+	1,784 - 1,795 anAnimation
+	1,796 - 1,799 anAnimation.theAnimationValues
+	1,800 - 1,803 anAnimation.theAnimationValues
+	1,804 - 1,807 anAnimation.theAnimationValues
+	1,808 - 1,983 aSequence [dummyidle]
+	1,984 - 2,087 theMdlFileData.theSequenceGroups 1
+	2,088 - 2,163 aBodyPart [studio]
+	2,164 - 2,275 aModel [medkit]
+	2,276 - 2,303 aModel.theVertexBoneInfos 28
+	2,304 - 2,325 aModel.theNormalBoneInfos 22
+	2,326 - 2,327 aModel.theNormalBoneInfos alignment [ 00 00 ]
+	2,328 - 2,663 aModel.theVertexes 28
+	2,664 - 2,927 aModel.theNormals 22
+	2,928 - 2,947 aMesh
+	2,948 - 3,869 aMesh.theFaces 28
+	3,870 - 3,871 aMesh.theFaces alignment [ 00 00 ]
+	3,872 - 3,951 aTexture [medkit_top.bmp]
+	3,952 - 3,953 theMdlFileData.theSkinFamilies 1
+	3,954 - 3,955 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	3,956 - 9,907 aTexture.theData
+	9,908 - 9,908 END OF FILE + 1 (File size)
+========================

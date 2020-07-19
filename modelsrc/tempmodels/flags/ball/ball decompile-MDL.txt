@@ -1,0 +1,52 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	23,792
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 579 theMdlFileData.theBones 3
+	580 - 643 aHitboxSet.theHitboxes 2
+	644 - 655 anAnimation
+	656 - 667 anAnimation
+	668 - 679 anAnimation
+	680 - 683 anAnimation.theAnimationValues
+	684 - 687 anAnimation.theAnimationValues
+	688 - 691 anAnimation.theAnimationValues
+	692 - 725 anAnimation.theAnimationValues
+	726 - 729 anAnimation.theAnimationValues
+	730 - 733 anAnimation.theAnimationValues
+	734 - 767 anAnimation.theAnimationValues
+	768 - 779 anAnimation
+	780 - 791 anAnimation
+	792 - 803 anAnimation
+	804 - 807 anAnimation.theAnimationValues
+	808 - 811 anAnimation.theAnimationValues
+	812 - 815 anAnimation.theAnimationValues
+	816 - 819 anAnimation.theAnimationValues
+	820 - 853 anAnimation.theAnimationValues
+	854 - 887 anAnimation.theAnimationValues
+	888 - 921 anAnimation.theAnimationValues
+	922 - 925 anAnimation.theAnimationValues
+	926 - 929 anAnimation.theAnimationValues
+	930 - 933 anAnimation.theAnimationValues
+	934 - 935 aSequence.theAnimations - End of AnimationValues alignment [ 00 00 ]
+	936 - 1,111 aSequence [not_carried]
+	1,112 - 1,287 aSequence [carried]
+	1,288 - 1,391 theMdlFileData.theSequenceGroups 1
+	1,392 - 1,467 aBodyPart [bopdy]
+	1,468 - 1,579 aModel [soccer]
+	1,580 - 1,631 aModel.theVertexBoneInfos 52
+	1,632 - 1,691 aModel.theNormalBoneInfos 60
+	1,692 - 2,315 aModel.theVertexes 52
+	2,316 - 3,035 aModel.theNormals 60
+	3,036 - 3,055 aMesh
+	3,056 - 3,075 aMesh
+	3,076 - 3,933 aMesh.theFaces 12
+	3,934 - 3,935 aMesh.theFaces alignment [ 00 00 ]
+	3,936 - 4,247 aMesh.theFaces 3
+	4,248 - 4,327 aTexture [soccer.bmp]
+	4,328 - 4,407 aTexture [pointer.bmp]
+	4,408 - 4,411 theMdlFileData.theSkinFamilies 1
+	4,412 - 22,959 aTexture.theData
+	22,960 - 23,791 aTexture.theData
+	23,792 - 23,792 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,43 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	19,432
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 1,587 theMdlFileData.theBones 12
+	1,588 - 1,683 aHitboxSet.theHitboxes 3
+	1,684 - 1,695 anAnimation
+	1,696 - 1,707 anAnimation
+	1,708 - 1,719 anAnimation
+	1,720 - 1,731 anAnimation
+	1,732 - 1,743 anAnimation
+	1,744 - 1,755 anAnimation
+	1,756 - 1,767 anAnimation
+	1,768 - 1,779 anAnimation
+	1,780 - 1,791 anAnimation
+	1,792 - 1,803 anAnimation
+	1,804 - 1,815 anAnimation
+	1,816 - 1,827 anAnimation
+	1,828 - 1,831 anAnimation.theAnimationValues
+	1,832 - 1,835 anAnimation.theAnimationValues
+	1,836 - 1,839 anAnimation.theAnimationValues
+	1,840 - 2,015 aSequence [idle]
+	2,016 - 2,119 theMdlFileData.theSequenceGroups 1
+	2,120 - 2,195 aBodyPart [studio]
+	2,196 - 2,307 aModel [reference_grenade]
+	2,308 - 2,368 aModel.theVertexBoneInfos 61
+	2,369 - 2,371 aModel.theVertexBoneInfos alignment [ 00 00 00 ]
+	2,372 - 2,442 aModel.theNormalBoneInfos 71
+	2,443 - 2,443 aModel.theNormalBoneInfos alignment [ 00 ]
+	2,444 - 3,175 aModel.theVertexes 61
+	3,176 - 4,027 aModel.theNormals 71
+	4,028 - 4,047 aMesh
+	4,048 - 4,067 aMesh
+	4,068 - 4,543 aMesh.theFaces 13
+	4,544 - 5,443 aMesh.theFaces 17
+	5,444 - 5,523 aTexture [grenade_side.bmp]
+	5,524 - 5,603 aTexture [grenade_skin.bmp]
+	5,604 - 5,607 theMdlFileData.theSkinFamilies 1
+	5,608 - 8,423 aTexture.theData
+	8,424 - 19,431 aTexture.theData
+	19,432 - 19,432 END OF FILE + 1 (File size)
+========================

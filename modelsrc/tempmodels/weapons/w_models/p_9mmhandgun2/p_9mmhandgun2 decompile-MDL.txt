@@ -1,0 +1,50 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	17,860
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 1,587 theMdlFileData.theBones 12
+	1,588 - 1,651 aHitboxSet.theHitboxes 2
+	1,652 - 1,663 anAnimation
+	1,664 - 1,675 anAnimation
+	1,676 - 1,687 anAnimation
+	1,688 - 1,699 anAnimation
+	1,700 - 1,711 anAnimation
+	1,712 - 1,723 anAnimation
+	1,724 - 1,735 anAnimation
+	1,736 - 1,747 anAnimation
+	1,748 - 1,759 anAnimation
+	1,760 - 1,771 anAnimation
+	1,772 - 1,783 anAnimation
+	1,784 - 1,795 anAnimation
+	1,796 - 1,799 anAnimation.theAnimationValues
+	1,800 - 1,803 anAnimation.theAnimationValues
+	1,804 - 1,807 anAnimation.theAnimationValues
+	1,808 - 1,983 aSequence [idle]
+	1,984 - 2,087 theMdlFileData.theSequenceGroups 1
+	2,088 - 2,163 aBodyPart [studio]
+	2,164 - 2,275 aModel [reference_9mm]
+	2,276 - 2,319 aModel.theVertexBoneInfos 44
+	2,320 - 2,359 aModel.theNormalBoneInfos 40
+	2,360 - 2,887 aModel.theVertexes 44
+	2,888 - 3,367 aModel.theNormals 40
+	3,368 - 3,387 aMesh
+	3,388 - 3,407 aMesh
+	3,408 - 3,427 aMesh
+	3,428 - 3,447 aMesh
+	3,448 - 3,999 aMesh.theFaces 15
+	4,000 - 4,137 aMesh.theFaces 4
+	4,138 - 4,139 aMesh.theFaces alignment [ 00 00 ]
+	4,140 - 4,651 aMesh.theFaces 15
+	4,652 - 4,899 aMesh.theFaces 7
+	4,900 - 4,979 aTexture [glockside.bmp]
+	4,980 - 5,059 aTexture [glockback.bmp]
+	5,060 - 5,139 aTexture [glocktop1.bmp]
+	5,140 - 5,219 aTexture [glockfront.bmp]
+	5,220 - 5,227 theMdlFileData.theSkinFamilies 1
+	5,228 - 12,495 aTexture.theData
+	12,496 - 14,463 aTexture.theData
+	14,464 - 15,891 aTexture.theData
+	15,892 - 17,859 aTexture.theData
+	17,860 - 17,860 END OF FILE + 1 (File size)
+========================

@@ -1,0 +1,30 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	8,300
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 467 theMdlFileData.theBones 2
+	468 - 499 aHitboxSet.theHitboxes 1
+	500 - 511 anAnimation
+	512 - 523 anAnimation
+	524 - 527 anAnimation.theAnimationValues
+	528 - 531 anAnimation.theAnimationValues
+	532 - 535 anAnimation.theAnimationValues
+	536 - 711 aSequence [idle]
+	712 - 815 theMdlFileData.theSequenceGroups 1
+	816 - 891 aBodyPart [studio]
+	892 - 1,003 aModel [quad_Template1]
+	1,004 - 1,047 aModel.theVertexBoneInfos 44
+	1,048 - 1,105 aModel.theNormalBoneInfos 58
+	1,106 - 1,107 aModel.theNormalBoneInfos alignment [ 00 00 ]
+	1,108 - 1,635 aModel.theVertexes 44
+	1,636 - 2,331 aModel.theNormals 58
+	2,332 - 2,351 aMesh
+	2,352 - 3,349 aMesh.theFaces 18
+	3,350 - 3,351 aMesh.theFaces alignment [ 00 00 ]
+	3,352 - 3,431 aTexture [Chrome1(Blue).bmp]
+	3,432 - 3,433 theMdlFileData.theSkinFamilies 1
+	3,434 - 3,435 theMdlFileData.theSkinFamilies alignment [ 00 00 ]
+	3,436 - 8,299 aTexture.theData
+	8,300 - 8,300 END OF FILE + 1 (File size)
+========================

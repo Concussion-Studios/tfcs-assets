@@ -1,0 +1,42 @@
+// Created by Crowbar 0.68
+====== File Size ======
+	40,064
+====== File Seek Log ======
+	0 - 243 MDL File Header; MDL File Header
+	244 - 1,587 theMdlFileData.theBones 12
+	1,588 - 1,651 aHitboxSet.theHitboxes 2
+	1,652 - 1,663 anAnimation
+	1,664 - 1,675 anAnimation
+	1,676 - 1,687 anAnimation
+	1,688 - 1,699 anAnimation
+	1,700 - 1,711 anAnimation
+	1,712 - 1,723 anAnimation
+	1,724 - 1,735 anAnimation
+	1,736 - 1,747 anAnimation
+	1,748 - 1,759 anAnimation
+	1,760 - 1,771 anAnimation
+	1,772 - 1,783 anAnimation
+	1,784 - 1,795 anAnimation
+	1,796 - 1,799 anAnimation.theAnimationValues
+	1,800 - 1,803 anAnimation.theAnimationValues
+	1,804 - 1,807 anAnimation.theAnimationValues
+	1,808 - 1,983 aSequence [dummyidle]
+	1,984 - 2,087 theMdlFileData.theSequenceGroups 1
+	2,088 - 2,163 aBodyPart [studio]
+	2,164 - 2,275 aModel [spygun]
+	2,276 - 2,323 aModel.theVertexBoneInfos 48
+	2,324 - 2,359 aModel.theNormalBoneInfos 36
+	2,360 - 2,935 aModel.theVertexes 48
+	2,936 - 3,367 aModel.theNormals 36
+	3,368 - 3,387 aMesh
+	3,388 - 3,407 aMesh
+	3,408 - 4,349 aMesh.theFaces 22
+	4,350 - 4,351 aMesh.theFaces alignment [ 00 00 ]
+	4,352 - 4,571 aMesh.theFaces 5
+	4,572 - 4,651 aTexture [Spy Gun1.BMP]
+	4,652 - 4,731 aTexture [Chrome1.BMP]
+	4,732 - 4,735 theMdlFileData.theSkinFamilies 1
+	4,736 - 35,199 aTexture.theData
+	35,200 - 40,063 aTexture.theData
+	40,064 - 40,064 END OF FILE + 1 (File size)
+========================
