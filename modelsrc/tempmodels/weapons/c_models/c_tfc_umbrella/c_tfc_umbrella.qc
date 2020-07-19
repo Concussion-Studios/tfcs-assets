@@ -3,7 +3,7 @@ $cdmaterials "models/weapons/c_models/c_tfc_umbrella"
 
 $BodyGroup "studio"
 {
-	studio "V_Umbrella_Template1"
+	studio "c_tfc_umbrella_mesh"
 }
 
 // Clipping box or view bounding box.
@@ -16,48 +16,59 @@ $HBox 0 "Bip01 R Arm2" 0 -2.8 -4 11.368422 3.02 1.73
 $HBox 0 "Bip01 R Hand" 0 -0.87 -5 5.45 3.53 20.959999
 
 $Sequence "idle1" {
-	"v_umbrella_anims\idle1"
+	"c_tfc_umbrella_anims\idle1"
+	ACT_VM_IDLE 1
 	fps 13
 }
-$Sequence "draw" {
-	"v_umbrella_anims\draw"
-	fps 24
-}
-$Sequence "holster" {
-	"v_umbrella_anims\holster"
-	fps 24
-}
-$Sequence "attack1" {
-	"v_umbrella_anims\attack1"
-	fps 22
-}
-$Sequence "attack1miss" {
-	"v_umbrella_anims\attack1miss"
-	fps 22
-}
-$Sequence "attack2" {
-	"v_umbrella_anims\attack2"
-	fps 22
-}
-$Sequence "attack2hit" {
-	"v_umbrella_anims\attack2hit"
-	fps 22
-}
-$Sequence "attack3" {
-	"v_umbrella_anims\attack3"
-	fps 24
-}
-$Sequence "attack3hit" {
-	"v_umbrella_anims\attack3hit"
-	fps 24
-}
 $Sequence "idle2" {
-	"v_umbrella_anims\idle2"
+	"c_tfc_umbrella_anims\idle2"
+	ACT_VM_IDLE 2
 	fps 15
 	loop
 }
 $Sequence "idle3" {
-	"v_umbrella_anims\idle3"
+	"c_tfc_umbrella_anims\idle3"
+	ACT_VM_IDLE 3
 	fps 15
 	loop
+}
+$Sequence "draw" {
+	"c_tfc_umbrella_anims\draw"
+	ACT_VM_DRAW 1
+	fps 24
+}
+$Sequence "holster" {
+	"c_tfc_umbrella_anims\holster"
+	ACT_VM_HOLSTER 1
+	fps 24
+}
+$Sequence "attack1" {
+	"c_tfc_umbrella_anims\attack1"
+	ACT_VM_HITCENTER 1
+	fps 22
+}
+$Sequence "attack1miss" {
+	"c_tfc_umbrella_anims\attack1miss"
+	ACT_VM_MISSCENTER 1
+	fps 22
+}
+$Sequence "attack2" {
+	"c_tfc_umbrella_anims\attack2"
+	ACT_VM_HITCENTER2 1
+	fps 22
+}
+$Sequence "attack2hit" {
+	"c_tfc_umbrella_anims\attack2hit"
+	ACT_VM_MISSCENTER2 1
+	fps 22
+}
+$Sequence "attack3" {
+	"c_tfc_umbrella_anims\attack3"
+	ACT_VM_HITCENTER2 2
+	fps 24
+}
+$Sequence "attack3hit" {
+	"c_tfc_umbrella_anims\attack3hit"
+	ACT_VM_MISSCENTER2 2
+	fps 24
 }

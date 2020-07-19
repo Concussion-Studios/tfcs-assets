@@ -3,7 +3,7 @@ $cdmaterials "models/weapons/c_models/c_tfc_medkit"
 
 $BodyGroup "body"
 {
-	studio "v_tfc_medkit_medkit_remap"
+	studio "c_tfc_medkit_mesh"
 }
 
 // Clipping box or view bounding box.
@@ -22,28 +22,34 @@ $HBox 0 "Hands biped R Hand" 0 -0.92 -1.77 4.18 1.05 1.86
 $HBox 0 "Hands biped R Finger0" 0 -0.43 -0.61 2 0.67 0.48
 
 $Sequence "idle" {
-	"v_tfc_medkit_anims\idle"
+	"c_tfc_medkit_anims\idle"
+	ACT_VM_IDLE 1
 	fps 30
 	loop
 }
 $Sequence "longidle" {
-	"v_tfc_medkit_anims\longidle"
+	"c_tfc_medkit_anims\longidle"
+	ACT_VM_IDLE 2
 	fps 30
 	loop
 }
 $Sequence "longuse" {
-	"v_tfc_medkit_anims\longuse"
+	"c_tfc_medkit_anims\longuse"
+	ACT_VM_SECONDARYATTACK 1
 	fps 30
 }
 $Sequence "shortuse" {
-	"v_tfc_medkit_anims\shortuse"
+	"c_tfc_medkit_anims\shortuse"
+	ACT_VM_PRIMARYATTACK 1
 	fps 30
 }
 $Sequence "holster" {
-	"v_tfc_medkit_anims\holster"
+	"c_tfc_medkit_anims\holster"
+	ACT_VM_DRAW 1
 	fps 30
 }
 $Sequence "draw" {
-	"v_tfc_medkit_anims\draw"
+	"c_tfc_medkit_anims\draw"
+	ACT_VM_HOLSTER 1
 	fps 30
 }
